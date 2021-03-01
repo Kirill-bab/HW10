@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WebApp_Tests
+namespace Tests
 {
     class ConnectionSettings
     {
